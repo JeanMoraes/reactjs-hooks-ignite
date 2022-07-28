@@ -45,7 +45,7 @@ const Home = (): JSX.Element => {
     <ProductList>
       <li>
         <img src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg" alt="Tênis de Caminhada Leve Confortável" />
-        <strong>Tênis de Caminhada Leve Confortável</strong>
+        <strong>Tênis de Caminhada Leve Confortável TESTE</strong>
         <span>R$ 179,90</span>
         <button
           type="button"
